@@ -10,7 +10,7 @@ If you find our work useful, you can cite our paper using:
 
 @article{,
   title={PREDICTION OF MICROSATELLIT INSTABILITY IN COLORECTAL CANCER WITH DEEP LEARNING},
-  author={},
+  author={ERİKCİ Hüseyin, PAMUK Ziynet},
   journal={},
-  year={}
+  year={2023}
 }
